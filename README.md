@@ -2,6 +2,9 @@
 
 A simple **2D endless runner game** where you control a block and navigate through obstacles using the arrow keys. Inspired by Flappy Bird, but with a geometric twist!  
 
+![Untitled](https://github.com/user-attachments/assets/9394e602-18db-45bc-85ba-8cdf5a790e3e)
+
+
 ## 🎮 How to Play  
 - Use **Arrow Up** to jump and **Arrow Down** to dive.  
 - Avoid colliding with obstacles.  
